@@ -1,0 +1,49 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.btn-outline-success {
+  color: #e50010;
+  border-color: #e50010;
+}
+.btn-outline-success:hover {
+  background-color: #e50010;
+  border-color: #e50010;
+}
+.navbar-nav .nav-link.active {
+  color: #e50010;
+}
+
+.btn .btn-outline-light {
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #e4e4e4;
+  color: #222222;
+}
+.footer-menu, .footer-text {
+  font-size: 0.8em;
+}
+.footer-menu a {
+  padding-bottom: 5px;
+}
+.footer-sns a {
+  padding: 5px;
+}
+.bar::before {
+  margin-left: 5px;
+  content: "|";
+}
+.accordion-item  {
+  background-color: #e4e4e4;
+}
+.accordion-button {
+  background-color: #e4e4e4;
+}
+.accordion-button:focus {
+  border: none;
+  background-color: #e4e4e4;
+  box-shadow: none;
+  color: #e50010;
+}
